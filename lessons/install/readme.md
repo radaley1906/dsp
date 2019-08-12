@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> Yes
+>> Yes - Python 3 is the latest version and the recommended version of Python.
 
 ### Q2. Which Python Version Installed   
 
